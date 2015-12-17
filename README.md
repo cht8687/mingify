@@ -76,6 +76,15 @@ $ webpack-dev-server
 打开 http://localhost:8080/webpack-dev-server/
 ```
 
+## 测试项目使用技术
+
+1. React
+2. Webpack
+3. Webpack-hot-reload
+4. ES6
+
+然而，在明哥面前，这些都是狗屎。一切他都了如指掌。
+
 ## License
 
 MIT
