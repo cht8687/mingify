@@ -40,10 +40,9 @@
 
 ```
 $ npm install --save mingify
-``
+```
 
-引用：
-
+###引用：
 
 
 ####ES5
