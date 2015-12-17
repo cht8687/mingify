@@ -1,16 +1,20 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
-import Mingify from '..';
+import mingify from '..';
 
-class Display extends Component {
+export default class Display extends Component {
+
+  static propTypes = {
+    text: React.PropTypes.string.isRequired
+  };
 
   render() {
-
+    const { text } = this.props;
+    const result = mingify(text);
     return (
       <div>
-        
+        <h3> --------明哥体生成结果-----------</h3>
+        {result}
       </div>
     );
   }
-
 }

@@ -1,2 +1,2 @@
-import Mingify from './Mingify';
-export default Mingify;
+import mingify from './mingify';
+export default mingify;

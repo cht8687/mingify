@@ -17,11 +17,8 @@
     "react",
     "react-component",
     "component",
-    "react-motion",
-    "react-listview",
-    "react-accordion",
-    "accordion",
-    "expandable"
+    "minggejs",
+    "mingify"
   ],
   "files": [
     "dist"

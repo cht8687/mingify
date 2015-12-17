@@ -4,12 +4,24 @@ import Display from './Display';
 
 class App extends Component {
 
-  
+  constructor(props) {
+    super(props);
+    this.state = {
+      text: 'Angular'
+    }
+  }
 
   render() {
 
+    const { text } = this.state;
+
     return (
       <div>
+        <input 
+          type="text"
+          defaultValue={text}
+          onChange={this.valueChange.bind(this)}
+          />
         <Display
           text={text}
         />
@@ -17,6 +29,11 @@ class App extends Component {
     );
   }
 
+  valueChange(e) {
+    this.setState({
+      text: e.currentTarget.value
+    });
+  }
 }
 
 const appRoot = document.createElement('div');
