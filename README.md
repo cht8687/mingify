@@ -1,15 +1,18 @@
 # 明哥体生成器 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
+![mingify](src/example/logo.jpg)
+
+
 一切起源：
 
 >[老实说我从来没用过JQUERY，正因为我反感JQUERY。 为什么我反感，因为我完全有开发JQUERY的能力，JQUERY的底层我都了如指掌。](https://github.com/drduan/minggeJS)  
->--- Mingge
+>--- mingge
 
 引擎贡献者：
 
 >[“我完全有开发明哥体生成器的能力，明哥体生成器的底层我都了如指掌”](https://github.com/drduan/minggeJS/issues/148)  
-> --- Jamesliu96
+> --- jamesliu96
 
 ## 在线实例
 
@@ -83,7 +86,14 @@ $ webpack-dev-server
 3. Webpack-hot-reload
 4. ES6
 
-然而，在明哥面前，这些都是狗屎。一切他都了如指掌。
+然而，在明哥面前，这些都没什么卵用。因为他所有底层他都了如指掌。
+
+
+## 贡献者
+
+*主引擎，底层：[jamesliu96](https://github.com/jamesliu96)
+
+*Logo: [tianyuf](https://github.com/tianyuf)
 
 ## License
 
