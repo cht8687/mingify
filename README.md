@@ -14,6 +14,7 @@
 ## 在线实例
 
 
+[http://cht8687.github.io/mingify/example/](http://cht8687.github.io/mingify/example/)
 
 ## 使用范例
 
