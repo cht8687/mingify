@@ -34,6 +34,34 @@
 
 ```
 
+## 安装
+
+### npm
+
+```
+$ npm install --save mingify
+``
+
+引用：
+
+
+
+####ES5
+
+```js
+var mingify = require('mingify');
+
+var result = mingify("Angular");
+```
+
+####ES6
+
+```js
+import mingify from 'mingify'
+
+const result = mingify("Angular");
+```
+
 ## 如何克隆并开发
 
 ```
