@@ -1,13 +1,15 @@
 # 明哥体生成器 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
+一切起源：
+
 >[老实说我从来没用过JQUERY，正因为我反感JQUERY。 为什么我反感，因为我完全有开发JQUERY的能力，JQUERY的底层我都了如指掌。](https://github.com/drduan/minggeJS)  
->Mingge
+>--- Mingge
 
 引擎从如下取出：
 
 >[“我完全有开发明哥体生成器的能力，明哥体生成器的底层我都了如指掌”](https://github.com/drduan/minggeJS/issues/148)  
->Jamesliu96
+> --- Jamesliu96
 
 ## 在线实例
 
