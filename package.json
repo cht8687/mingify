@@ -1,6 +1,6 @@
 {
   "name": "mingify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "明哥体生成器",
   "main": "dist/index.js",
   "scripts": {
