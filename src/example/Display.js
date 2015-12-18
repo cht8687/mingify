@@ -9,11 +9,11 @@ export default class Display extends Component {
 
   render() {
     const { text } = this.props;
-    const result = mingify(text);
+    const result = mingify(text).replace(/\r?\n/g, '<br>');
     return (
       <div>
         <h3> --------明哥体生成结果-----------</h3>
-        {result}
+        <p dangerouslySetInnerHTML={{ __html: result }}></p>
       </div>
     );
   }
