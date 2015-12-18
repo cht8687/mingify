@@ -9,7 +9,7 @@
 >[老实说我从来没用过JQUERY，正因为我反感JQUERY。 为什么我反感，因为我完全有开发JQUERY的能力，JQUERY的底层我都了如指掌。](https://github.com/drduan/minggeJS)  
 >--- mingge
 
-引擎贡献者：
+引擎(底层)贡献者：
 
 >[“我完全有开发明哥体生成器的能力，明哥体生成器的底层我都了如指掌”](https://github.com/drduan/minggeJS/issues/148)  
 > --- jamesliu96
@@ -79,14 +79,14 @@ $ webpack-dev-server
 打开 http://localhost:8080/webpack-dev-server/
 ```
 
-## 测试项目使用技术
+## Demo项目使用技术
 
 1. React
 2. Webpack
 3. Webpack-hot-reload
 4. ES6
 
-然而，在明哥面前，这些都没什么卵用。因为他所有底层他都了如指掌。
+然而，在明哥面前，这些都没什么卵用。因为所有底层他都了如指掌。
 
 
 ## 贡献者
