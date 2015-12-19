@@ -1,8 +1,7 @@
-# 明哥体生成器 
+# 明哥体生成器
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
 ![mingify](src/example/logo.jpg)
-
 
 一切起源：
 
@@ -16,7 +15,6 @@
 
 ## 在线实例
 
-
 [http://cht8687.github.io/mingify/example/](http://cht8687.github.io/mingify/example/)
 
 ## 使用范例
@@ -24,7 +22,6 @@
 如 `mingify("Angular")`返回
 
 ```js
-
 老实说我从来没用过Angular，正因为我反感Angular。 为什么我反感，因为我完全有开发Angular的能力，Angular的底层我都了如指掌。
 
 虽说我反感Angular，但是Angular却在测试界占有大量的用户份额，之后我有个想法，不如重新开发一个属于自己思想，自己架构的Angular。
@@ -34,7 +31,12 @@
 它的名字叫MingGeAngular，MingGe就是我的大名， 一看到Angular名字，就知道作者是我，知道它是国产的，让别人知道国产Angular一样做得很出色，出众
 
 我是mingge 请支持国产minggeAngular，因为我们都是中国人.
+```
 
+CLI
+
+```
+$ mingify Angular
 ```
 
 ## 安装
@@ -45,8 +47,13 @@
 $ npm install --save mingify
 ```
 
-###引用：
+Or install CLI globally
 
+```
+$ npm install --global mingify
+```
+
+###引用：
 
 ####ES5
 
@@ -87,7 +94,6 @@ $ webpack-dev-server
 4. ES6
 
 然而，在明哥面前，这些都没什么卵用。因为所有底层他都了如指掌。
-
 
 ## 贡献者
 
