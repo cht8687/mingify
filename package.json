@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "明哥体生成器",
   "main": "dist/index.js",
+  "bin": "dist/cli.js",
   "scripts": {
     "prepublish": "parallelshell -w \"npm run build:dist -s\" \"npm run build:example -s\" \"npm run build:bower -s\"",
     "prebuild": "rimraf dist example build",
@@ -14,9 +15,6 @@
     "url": "git+https://github.com/cht8687/mingify.git"
   },
   "keywords": [
-    "react",
-    "react-component",
-    "component",
     "minggejs",
     "mingify"
   ],
@@ -29,9 +27,6 @@
     "url": "https://github.com/cht8687/mingify/issues"
   },
   "homepage": "https://github.com/cht8687/mingify#readme",
-  "peerDependencies": {
-    "react": ">=0.14"
-  },
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-core": "^5.8.23",
@@ -42,12 +37,15 @@
     "eslint-plugin-react": "^3.2.3",
     "html-webpack-plugin": "^1.6.1",
     "parallelshell": "^2.0.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
     "react-hot-loader": "^1.2.9",
-    "rimraf": "^2.4.3",
+    "rimraf": "^2.4.4",
     "webpack": "^1.11.0",
     "webpack-dev-server": "^1.10.1"
   },
   "dependencies": {
-    "react-dom": "^0.14.3"
+    "chalk": "^1.1.1",
+    "meow": "^3.6.0"
   }
 }

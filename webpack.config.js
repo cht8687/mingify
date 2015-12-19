@@ -23,18 +23,18 @@ module.exports = {
     module: {
       loaders: [
         {
-          test: /\.js$/, 
+          test: /\.js$/,
           loaders: ['react-hot', 'babel'],
           include: [path.resolve('src')]
         }
       ],
       preLoaders: [
         {
-          test: /\.js$/, 
-          loaders: ['eslint-loader'], 
+          test: /\.js$/,
+          loaders: ['eslint-loader'],
           include: [path.resolve('src')]
         }
-      ]   
+      ]
     },
     resolve: { extensions: ['', '.js'] },
     stats: { colors: true },
