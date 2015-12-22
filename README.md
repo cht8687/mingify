@@ -53,6 +53,8 @@ Or install CLI globally
 $ npm install --global mingify
 ```
 
+![mingify](cli.gif)
+
 ###引用：
 
 ####ES5
@@ -85,6 +87,7 @@ $ webpack-dev-server
 ```
 打开 http://localhost:8080/webpack-dev-server/
 ```
+![mingify](dev.gif)
 
 ## Demo项目使用技术
 
