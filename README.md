@@ -1,6 +1,44 @@
 # 明哥体生成器
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
+<big><h1 align="center">React hover --- Turn anything to hover component</h1></big>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/mingify">
+    <img src="https://img.shields.io/npm/v/mingify.svg?style=flat-square"
+         alt="NPM Version">
+  </a>
+
+ <a href="https://coveralls.io/github/cht8687/mingify?branch=master">
+    <img src="https://coveralls.io/repos/cht8687/mingify/badge.svg?branch=master&service=github" alt="Coverage Status" />
+ </a>
+
+  <a href="https://travis-ci.org/cht8687/mingify">
+    <img src="https://img.shields.io/travis/cht8687/mingify.svg?style=flat-square"
+         alt="Build Status">
+  </a>
+
+  <a href="https://npmjs.org/package/mingify">
+    <img src="http://img.shields.io/npm/dm/mingify.svg?style=flat-square"
+         alt="Downloads">
+  </a>
+
+  <a href="https://david-dm.org/cht8687/mingify.svg">
+    <img src="https://david-dm.org/cht8687/mingify.svg?style=flat-square"
+         alt="Dependency Status">
+  </a>
+
+  <a href="https://github.com/cht8687/mingify/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/mingify.svg?style=flat-square"
+         alt="License">
+  </a>
+</p>
+
+<p align="center"><big>
+
+</big></p>
+
+
 ![mingify](src/example/logo.jpg)
 
 一切起源：
