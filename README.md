@@ -1,7 +1,6 @@
-# 明哥体生成器
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
-<big><h1 align="center"># 明哥体生成器</h1></big>
+<big><h1 align="center">明哥体生成器</h1></big>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/mingify">
