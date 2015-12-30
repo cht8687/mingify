@@ -10,4 +10,4 @@ var cli = meow(`Usage
     mingify Angular
 `);
 
-console.log(mingify(cli.input[0], 'trend'));
+console.log(mingify(cli.input[0], 'cli'));
