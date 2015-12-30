@@ -3,7 +3,7 @@ import chalk from 'chalk';
 import mingify from '.';
 import meow from 'meow';
 
-var cli = meow(`Usage
+const cli = meow(`Usage
   mingify <text>
 
   example
