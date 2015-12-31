@@ -137,9 +137,9 @@ $ webpack-dev-server
 
 ## 贡献者
 
-*主引擎，底层：[jamesliu96](https://github.com/jamesliu96)
+* 主引擎，底层：[jamesliu96](https://github.com/jamesliu96)
 
-*Logo: [tianyuf](https://github.com/tianyuf)
+* Logo: [tianyuf](https://github.com/tianyuf)
 
 ## License
 
