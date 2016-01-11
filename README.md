@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
-<big><h1 align="center">明哥体生成器</h1></big>
+![mingify](src/example/logo.jpg)
 
 <p align="center">
   <a href="https://www.npmjs.com/package/mingify">
@@ -37,8 +37,6 @@
 
 </big></p>
 
-
-![mingify](src/example/logo.jpg)
 
 一切起源：
 
